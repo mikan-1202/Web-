@@ -25,6 +25,8 @@
 
 ## 🔧 事前準備 / Setup
 
+⚠公開されているコードは実際には動きません。ご了承ください。
+
 ### 1. 必要なライブラリのインストール
 ```bash
 pip install -r requirements.txt
